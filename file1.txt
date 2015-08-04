@@ -1,2 +1,8 @@
 Ward: This is a text file
+Wise: Yes, this is a text file
 Ward: adding a new line of text
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> 082213cf1151aa460cbd8f9f50c3e8121aa62c10
